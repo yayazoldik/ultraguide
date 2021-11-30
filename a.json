@@ -2,10 +2,10 @@
   "config" : {
     "admob" : {
       "admob_unit_id" : "",
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
-      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917"
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
+      "admob_rewarded_id" : ""
     },
     
     "max" : {
@@ -16,10 +16,10 @@
     },
 	
 	"mopub" : {
-      "mopub_banner_id" : "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopub_interstitial_id" : "24534e1901884e398f1253216226017e",
-      "mopub_native_id" : "11a17b188668469fb0412708c3d16813",
-      "mopub_rewarded_id" : "920b6145fb1546cf8b5cf2ac34638bb7"
+      "mopub_banner_id" : "",
+      "mopub_interstitial_id" : "",
+      "mopub_native_id" : "",
+      "mopub_rewarded_id" : ""
     },
     
     "mode_ads_banner" : "mopub",

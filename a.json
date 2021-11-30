@@ -22,11 +22,11 @@
       "mopub_rewarded_id" : ""
     },
     
-    "mode_ads_banner" : "mopub",
-    "mode_ads_interstitial" : "mopub",
-    "mode_ads_native" : "mopub",
-    "mode_ads_rewarded" : "mopub",
-    "one_signal_app_id" : "",
+    "mode_ads_banner" : "",
+    "mode_ads_interstitial" : "",
+    "mode_ads_native" : "",
+    "mode_ads_rewarded" : "",
+    "one_signal_app_id" : "1779a82d-b5b8-43f8-8338-733e1694c3d0",
 
     "update" : {
       "enable_update_closed" : true,

@@ -67,7 +67,7 @@
       "appName":"Test App",
       "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
       "appUrl":"https://www.google.com/",
-      "appState":true,
+      "appState":false,
       "payout":"1.20",
       "appCountry":"all"
       },
@@ -76,7 +76,7 @@
       "appName":"Test App",
       "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
       "appUrl":"https://www.google.com/",
-      "appState":true,
+      "appState":false,
       "payout":"1.10",
       "appCountry":"all"
     },

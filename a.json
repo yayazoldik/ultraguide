@@ -22,10 +22,10 @@
       "mopub_rewarded_id" : ""
     },
     
-    "mode_ads_banner" : "",
-    "mode_ads_interstitial" : "",
-    "mode_ads_native" : "",
-    "mode_ads_rewarded" : "",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_native" : "admob",
+    "mode_ads_rewarded" : "admob",
     "one_signal_app_id" : "1779a82d-b5b8-43f8-8338-733e1694c3d0",
 
     "update" : {

@@ -1,11 +1,11 @@
 {
   "config" : {
     "admob" : {
-      "admob_unit_id" : "ca-app-pub-4844356325170425~9321808942",
-      "admob_banner_id" : "ca-app-pub-4844356325170425/3334322384",
-      "admob_interstitial_id" : "ca-app-pub-4844356325170425/7081995704",
-      "admob_native_id" : "ca-app-pub-4844356325170425/4048638255",
-      "admob_rewarded_id" : "ca-app-pub-4844356325170425/9516587355"
+      "admob_unit_id" : " ",
+      "admob_banner_id" : " ",
+      "admob_interstitial_id" : " ",
+      "admob_native_id" : " ",
+      "admob_rewarded_id" : " "
     },
     
     "max" : {

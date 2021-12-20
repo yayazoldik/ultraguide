@@ -30,7 +30,7 @@
 
     "update" : {
       "enable_update_closed" : false,
-      "update_action" : "https://iphone12.hijera.com",
+      "update_action" : "https://play.google.com/store/apps/developer?id=vivbo",
       "update_msg" : "Update To Now Version",
       "update_state" : true,
       "update_action_text" : "Update",
